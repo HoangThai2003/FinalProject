@@ -1,0 +1,22 @@
+{
+  "name": "finalproject",
+  "version": "1.0.0",
+  "description": "FinalProject",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HoangThai2003/FinalProject.git"
+  },
+  "keywords": [
+    "project"
+  ],
+  "author": "Thai Hoang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HoangThai2003/FinalProject/issues"
+  },
+  "homepage": "https://github.com/HoangThai2003/FinalProject#readme"
+}
