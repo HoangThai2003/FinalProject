@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/HoangThai2003/FinalProject/issues"
   },
-  "homepage": "https://github.com/HoangThai2003/FinalProject#readme"
+  "homepage": "https://github.com/HoangThai2003/FinalProject#readme",
+  "dependencies": {
+    "express": "^4.19.1",
+    "mysql": "^2.18.1"
+  }
 }
